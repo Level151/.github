@@ -4,4 +4,6 @@
   <img src="https://cdn.tabi.li/site/Tabili.svg" alt="Tabili Mascot" width="200" height="153"  />
 </p>
 
+<p align="center">
 _In Development_
+</p>
