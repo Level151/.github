@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-_In Development_
+<em>In Development</em>
 </p>
